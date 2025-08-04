@@ -1,0 +1,7 @@
+node_modules/
+
+delete.log
+
+exceptions.log
+
+.env
